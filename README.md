@@ -70,9 +70,3 @@ These visualizations were used to understand distributions, detect trends, and c
 
 ---
 
-📁 GDP-Visualization-Task
-├── 📄 Task1.ipynb                # Jupyter Notebook with full data visualization
-├── 📄 Top10_Countries_GDP.csv    # Dataset
-└── 📄 README.md                  # Project documentation
-
-
