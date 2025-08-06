@@ -57,7 +57,7 @@ In this task, I visualized both **categorical** and **numerical** features using
 - Scatter Plot
 - Heatmap
 
-These visualizations were used to understand distributions, detect trends, and compare GDP among countries.
+These visualizations were used to understand distributions, detect trends, uncover patterns, and gain insights.
 
 ---
 
