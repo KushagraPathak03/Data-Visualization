@@ -1,0 +1,11 @@
+Country,Continent,Region,Population,Climate Zone,Religion Majority,Primary Language,Currency,GDP (Trillion USD),Median Age,Average Income (USD),Gender Ratio (M/F),Urban Population (%),Birth Rate (per 1000),Death Rate (per 1000),Literacy Rate (%),Education Expenditure (%),Health Expenditure (%),Life Expectancy
+United States,North America,North America,"347,447,740",Temperate,Christianity,English,USD,30.5,38.5,69000,0.97,83,11,9,99,5,16.8,78.9
+China,Asia,East Asia,"1,416,096,094",Varied,Non-religious/Buddhism,Mandarin,CNY,19.23,38.4,12600,1.05,61,7,7,97,4,5.4,78.2
+Germany,Europe,Western Europe,"83,577,140",Temperate,Christianity,German,EUR,4.74,47.8,56000,0.96,77,9,11,99,4.8,11.5,81.1
+India,Asia,South Asia,"1,463,865,525",Tropical/Temperate,Hinduism,Hindi,INR,4.19,28.4,2500,1.08,36,17,7,74,3,3,70.4
+Japan,Asia,East Asia,"125,125,000",Temperate,Shinto/Buddhism,Japanese,JPY,4.19,48.6,42000,0.95,91,7,10,99,3.5,10.9,84.6
+United Kingdom,Europe,Western Europe,"68,265,209",Temperate,Christianity,English,GBP,3.84,40.5,48000,0.98,84,10,9,99,5.5,10,80.9
+France,Europe,Western Europe,"66,659,685",Temperate,Christianity,French,EUR,3.21,42.3,46000,0.96,81,11,10,99,5.4,11.2,82.5
+Italy,Europe,Southern Europe,"59,146,260",Temperate,Christianity,Italian,EUR,2.42,47.3,35000,0.94,71,7,11,99,4,8.8,83.6
+Brazil,South America,South America,"218,240,000",Tropical,Christianity,Portuguese,BRL,2.13,33.5,9000,0.98,87,13,6,93,6,9.5,75
+Canada,North America,North America,"41,012,563",Temperate,Christianity,English/French,CAD,2.12,41.1,52000,0.98,81,10,8,99,5.3,10.8,82.2
